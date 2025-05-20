@@ -68,4 +68,5 @@ We implemented five core queries across both systems:
 - MongoDB pipelines are powerful but require more setup and suffer in performance without indexing.
 - Relational databases remain ideal for structured analytics, while NoSQL systems may be better for nested, frequently updated data.
 
-
+## Note
+Project code and queries can be shared upon request. They are not publicly included here due to course policies, as this project was submitted for academic credit.
